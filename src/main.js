@@ -2,7 +2,7 @@ import iziToast from "izitoast";
 import "izitoast/dist/css/iziToast.min.css";
 
 import getArr from './js/pixabay-api.js';
-import renderImages from './js/render-function.js';
+import renderImages from './js/render-functions.js';
 
 const section = document.querySelector('section').children;
 const form = section[0];
